@@ -65,7 +65,7 @@ def model_prediction(doc_input):
     encode_data = pd.DataFrame({'PageNo': encode_pageno, 'Para': encode_para})
     encode_data = encode_data.sort_values('PageNo')
     # print(encode_data) 
-    encode_data.to_csv("encodedata.csv") #Generate CSV file ######
+    encode_data.to_csv("/content/ocrllm/encodedata.csv") #Generate CSV file ######
     print(f"Document Extraction Time--> {time.time()-start}")
     #   logger.info(f"Document Extraction Time--> {time.time()-start}")
     del encode_pageno, encode_para
