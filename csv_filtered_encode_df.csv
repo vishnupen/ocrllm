@@ -1,0 +1,111 @@
+PageNo,Para
+6,"Section 15. Insurance. At Supplier’s sole expense, Supplier will maintain insurance coverage as specified in Schedule 3
+(Insurance Requirements) during the Term of this Supplier Framework Agreement and two (2) years thereafter"
+9,"Index of Schedules
+
+Schedule 1: Data Privacy Agreement
+
+Schedule 2: Business Continuity Requirements
+Schedule 3: Insurance Requirements
+
+Schedule 4: Alight’s Supplier Code of Conduct
+Schedule 5: Background Check Requirements
+
+IN WITNESS WHEREOF, the Parties have caused this Supplier Framework Agreement to be duly executed as of the
+Effective Date"
+9,"1.2. “Data Protection Laws” means all applicable laws and regulations regarding privacy, security or
+data protection, including but not limited to, the California Consumer Privacy Act of 2018 (“CCPA”), the Health
+Insurance Portability and Accountability Act of 1996 (“HIPAA”), the EU General Data Protection Regulation 2016/679
+(“GDPR”), the Gramm-Leach-Bliley Act (“GLBA”), the UK Data Protection Act of 2018 and the New York Department
+of Financial Services Regulations, and such other state, province and national laws and regulations that may apply,
+
+Data Privacy Agreement CONFIDENTIAL Page 1"
+21,"WHEREAS, Company accesses, uses, transmits, or discloses protected health information (“PHI”) to perform certain
+functions or activities on behalf of a covered entity or other business associates (“Covered Entities”);
+
+WHEREAS, Company subcontracts a portion of those services to Subcontractor pursuant to an agreement between
+Company and Subcontractor (“Agreement”);
+
+WHEREAS, in performing the services, Subcontractor may access, use, transmit or disclose PHI; and
+
+WHEREAS, the Parties desire to comply with the Health Insurance Portability and Accountability Act of 1996, Pub. L. no.
+104-191, the privacy standards adopted by the U.S. Department of Health and Human Services (“HHS”) as they may be
+amended from time to time, 45 C.F.R. parts 160 and 164, subparts A and E (the “Privacy Rule”), the security standards
+adopted by HHS as they may be amended from time to time, 45 C.F.R. parts 160, 162 and 164 subparts C (the “Security
+Rule”), and the Privacy provisions (Subtitle D) of the Health Information Technology and for Economic Clinical Health Act,
+Division A, Title XIII of Pub. L. No. 111-5, and its implementing regulations (the “HITECH Act”). All such laws and regulations
+Shall be collectively referred to herein as “HIPAA.”
+
+NOW THEREFORE, for and in consideration of the recitals above and the mutual covenants and conditions herein
+contained, Company and Subcontractor agree as follows"
+28,"SCHEDULE 3
+
+INSURANCE REQUIREMENTS
+
+Alight Confidential Page 9"
+29,"7. Network Security/Privacy Liability/Cyber Liability insurance in an amount not less than $10,000,000
+per claim including, but not limited to, coverage for privacy and network security liability, Ist and 3rd party
+liability, wrongful disclosure of data, wrongful disclosure of any business confidential information, personally
+identifiable information or any personal or protected health information as defined by HIPAA and HITECH Acts
+and including applicable law, breach of security, including unauthorized access to a computer system or
+database, extortion and extortion related threats, payments and interruption, downtime, identification theft,
+web hosting (if applicable), regulatory proceedings, Payment Card Industry Data Security Standards (PCI-DSS)
+fines, penalties and costs, notification costs, credit monitoring service. Claims-Made policies shall be renewed
+each year fora period of two (2) years after Supplier’s completion of the services or shall have an extended
+reporting period of two (2) years. When renewed or replaced, the policy retroactive date must coincide with,
+or precede start of work on the services"
+29,"Professional Liability Insurance (Errors & Omissions) insurance in an amount not less than $10,000,000 per
+claim for damages arising from any acts, errors or omissions arising out of the rendering of or failure to render
+professional services as contracted under this Agreement. Claims-Made policies shall be renewed each year
+for a period of two (2) years after Supplier’s completion of the services or shall have an extended reporting
+period of two (2) years. When renewed or replaced, the policy retroactive date must coincide with, or precede
+start of work on the services"
+29,"Bodily Injury by Accident $1,000,000 each accident
+Bodily Injury by Disease $1,000,000 each employee
+Bodily Injury by Disease $1,000,000 policy limit
+
+Commercial General Liability/Public Liability insurance in an amount not less than $1,000,000 combined
+single limit per occurrence and $2,000,000 in the aggregate for bodily injury and property damage. Policy is
+to include coverage for liability arising from premises/operations, products/completed operations, personal
+and advertising injury, contractual liability and broad form property damage. Alight, its subsidiaries,
+affiliates, directors officers, employees and specified clients shall be additional insured(s) under Supplier’s
+Commercial General Liability insurance"
+29,"Employer’s Liability insurance, including coverage for occupational injury, illness and disease, with minimum
+limits"
+29,"Worker’s Compensation or other similar social insurance in accordance with the laws of the country, state
+or territory exercising jurisdiction over the employee with the minimum limits required by law"
+29,"At Supplier's sole expense, Supplier shall maintain, throughout the entire Term of the Order and including the
+provision of any post termination services or transition services, the following insurance with companies
+which are authorized to provide the applicable insurance and with an A.M. Best’s rating of A-VIl or better ora
+comparable rating from another rating agency. The insurance coverage and limits required to be maintained
+by Supplier shall be primary to insurance coverage, if any, maintained by Alight or its client. Supplier’s
+insurance shall provide coverage for all employees of Supplier and all independent contractors working under
+the direction of Supplier. Limits are shown in USD, and if provided in another currency other that USD, the limits
+should be the equivalent of those shown in USD"
+29,"Commercial Automobile Liability insurance in an amount not less than $1,000,000 combined single limit per
+occurrence for bodily injury and property damage covering the use of allowned, non-owned, and hired
+automobiles. Alight, its subsidiaries, affiliates, directors officers, employees and specified clients shall be
+additional insured(s) under Supplier’s Automobile Liability insurance
+
+Excess Liability insurance with respect to the Employers Liability, Commercial General Liability/Public Liability
+and Commercial Automobile Liability policies described above, in an umbrella form and on an occurrence
+basis with limits of at least $5,000,000 per occurrence"
+30,"Supplier shall furnish Alight with certificates of insurance evidencing compliance with the requirements listed
+above before commencing the services. Supplier will give Alight thirty (30) days’ notice prior to cancellation
+or material reduction of such insurance. Supplier will not permit any insurance requirements contained herein
+to lapse. If Supplier cancels any insurance policy, Supplier will promptly replace such insurance policy without
+lapse in coverage. Supplier will ensure that any subcontractors will maintain insurance coverage as specified
+herein. Failure of Supplier to provide and maintain the insurance described herein will constitute a material
+default for which Alight will be entitled exercise all rights and remedies hereunder and those available under
+applicable law"
+30,"8. Commercial Crime insurance, including blanket coverage for employee dishonesty and computer fraud
+for loss or damage arising out of or in connection with any fraudulent or dishonest acts committed by the
+employees of Supplier, acting alone orin collusion with others, including the property and funds of others in
+their possession, care, custody or control, with a minimum limit per event of $10,000,000. Coverage shall be
+endorsed to name Alight and specified clients of Alight as a joint loss payee under a joint loss payee
+endorsement"
+30,Supplier will be financially responsible forall deductibles or self-insurance retentions under such policies
+30,"The insurance coverage and limits required above are minimum requirements and in no way limit the liability
+of Supplier, its employees, agents or subcontractors for their respective acts or omissions"
+30,"9. All Risk Property insurance with a minimum limit of $1,000,000 to cover risks of damage or loss to
+Alight property in Supplier’s care, custody and control. Valuation is to include full replacement cost"

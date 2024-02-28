@@ -1,0 +1,14 @@
+version: '3.7'
+
+services:
+  app:
+    build: 
+    # container_name: slave
+    # command: python -u app.py
+      context: .
+    ports:
+      - "5003:5003"
+    # links:
+    #   - master
+    volumes:
+      - .:/app
